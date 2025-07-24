@@ -28,5 +28,5 @@ The project demonstrates:
 ## Author
 
 - **Name**: Lokeshwaran M  
-- **Email**: lokeshwaran.mr@epssw.com  
+- **Email**: lokeshwaran.m@epssw.com  
 - **Date**: July 24, 2025
